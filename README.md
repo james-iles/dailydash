@@ -4,6 +4,8 @@ A personal productivity dashboard built with React. Features a live clock, todo 
 
 **Live Demo:** [thedailydash.stuffbyjames.uk](https://thedailydash.stuffbyjames.uk)
 
+![DailyDash Screenshot](d-d-screenshot.png)
+
 ## Features
 
 - **Live Clock** - Real-time date and time display, updating every second
