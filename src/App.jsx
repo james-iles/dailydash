@@ -46,7 +46,7 @@ function App() {
       </div>
 
       <div className="footer">
-        <p>This is some more <a href="https://stuffbyjames.uk" target="_blank" rel="noopener noreferrer">stuffbyjames.uk</a></p>
+        <p>Built by <a href="https://jamesiles.uk" target="_blank" rel="noopener noreferrer">James Iles</a></p>
       </div>
     </>
   );
